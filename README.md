@@ -1,16 +1,14 @@
-### Hi there 👋
+### Here is What I'm Working On! 👋
 
-<!--
-**Santoshkr777/Santoshkr777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Santosh, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️, Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling. 
+ 
+**Talking about Personal Stuffs:**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on React with Redux
+- 🌱 I’m currently learning React, typescript, NodeJs, MongoDB, Mysql
+- 👯 I’m looking to collaborate on my API project✨ 
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: santoshkr17012001@gmail.com
+- ⚡ Fun fact: Nhi btaunga😂
 -->
