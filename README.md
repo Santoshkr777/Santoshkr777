@@ -10,5 +10,5 @@ Hi, I'm Santosh, a Full Stack Developer 🚀 from India, currently, I'm a Blogge
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: santoshkr17012001@gmail.com
-- ⚡ Fun fact: Nhi btaunga😂
+- ⚡ Fun fact:Mai nhi btaunga😂
 -->
