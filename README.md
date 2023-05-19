@@ -1,6 +1,6 @@
 ### Here is What I'm Working On! 👋
 
-Hi, I'm Santosh, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️, Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and travelling. 
+Hi, I'm Santosh, a Full Stack Developer 🚀 from India, currently, I'm a Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and travelling. 
  
 **Talking about Personal Stuffs:**
 
